@@ -1,0 +1,39 @@
+body{
+	text-align: left;
+	line-height: 1.5;
+	background-size: cover;
+	font-family: 'Josefin Slab', serif;
+	font-weight:bold;
+	background:url('../images/simple-background.jpg');
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
+.container{
+	
+	width: 500px;
+  	border-radius:20px;
+  	margin: 0 auto;
+  	padding:15px;
+	background:#4F3B55;
+	color:#478ED1;
+}
+
+h1{
+	text-align: center;
+	font-weight:700;
+	font-size:80px;
+	color: #47B0A1;
+	margin-bottom:15px;
+}
+h2{
+	font-family: 'Josefin Slab', serif;
+	text-align: center;
+	font-size:40px;
+	color:#47D170;
+}
+a{
+	color:#7ED147;
+	text-decoration:none;
+}
+
